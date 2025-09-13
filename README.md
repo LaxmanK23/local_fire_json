@@ -12,7 +12,7 @@ A Flutter/Dart project for working with local JSON files and Firebase integratio
 
 1. **Clone the repository:**
    ```sh
-   git clone (https://github.com/LaxmanK23/local_fire_json)
+   git clone https://github.com/LaxmanK23/local_fire_json
    ```
 2. **Install dependencies:**
    ```sh
